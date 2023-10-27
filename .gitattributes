@@ -1,0 +1,7 @@
+*.txt           eof=lf
+*.cpp           eof=lf
+*.h             eof=lf
+*.md            eof=lf
+*.in            eof=lf
+.gitignore      eof=lf
+.gitattributes  eof=lf
